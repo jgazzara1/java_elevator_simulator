@@ -1,6 +1,5 @@
-# java_elevator_simulator
-Java Elevator Simulator made originally in processing
 # Java Elevator Simulator Project:
+Java Elevator Simulator made originally in processing
 Dante D’Amico 
 John Gazzara
 Matt Ross
