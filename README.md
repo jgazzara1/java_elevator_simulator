@@ -1,8 +1,8 @@
 # Java Elevator Simulator Project:
-Java Elevator Simulator made originally in processing
-Dante D’Amico 
-John Gazzara
-Matt Ross
+Java Elevator Simulator made originally in processing by
+Dante D’Amico,
+John Gazzara,
+and Matt Ross
 
 ### Project Description: 
 Though we may take it for granted when using one, most modern elevators are powered by software control systems. In the simplest case of a one-elevator system, the elevator controller needs to remember which floors have been requested by elevator passengers and stop and open its doors when it arrives at the requested floor. From outside, if someone calls the elevator from the hallway, the control system needs to decide when the elevator should stop on that floor - does it finish transporting all the passengers or make an additional stop in the middle. In a multiple-elevator bank, if more than one elevator is currently in-use, the control system has to choose which elevator should respond to the call buttons.
